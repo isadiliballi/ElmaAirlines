@@ -1,0 +1,35 @@
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.exe
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.pdb
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form1.resources
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Properties.Resources.resources
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.exe
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.pdb
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csprojResolveAssemblyReference.cache
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.exe
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.pdb
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.exe
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.pdb
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csprojResolveAssemblyReference.cache
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form1.resources
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Properties.Resources.resources
+F:\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form2.resources
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.exe
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.pdb
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.exe
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.pdb
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csprojResolveAssemblyReference.cache
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form1.resources
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form2.resources
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Properties.Resources.resources
+F:\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.exe
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.pdb
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.exe
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\bin\Debug\ElmaAirlines.pdb
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form1.resources
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Form2.resources
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.Properties.Resources.resources
+\\Mac\Home\Desktop\Masaüstü - İsa MacBook Pro\OKUL\İSA DİLİBALLI 2017287011\UÇAK BİLETİ SATIN ALMA\ElmaAirlines\ElmaAirlines\obj\x86\Debug\ElmaAirlines.csproj.GenerateResource.Cache
